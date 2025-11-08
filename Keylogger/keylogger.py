@@ -5,6 +5,7 @@ IMPORTANT: This code is for educational purposes only. Use only on systems you o
 and with proper authorization. Unauthorized use may violate privacy laws.
 
 Features:
+
 - Captures keystrokes with timestamps
 - Logs application focus changes
 - Secure email reporting with attachment
@@ -13,6 +14,7 @@ Features:
 - Error handling and logging
 
 Requirements:
+
 - pynput (install with: pip install pynput)
 """
 
